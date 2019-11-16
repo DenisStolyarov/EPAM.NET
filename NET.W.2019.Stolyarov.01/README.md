@@ -1,7 +1,7 @@
 ﻿# Sorts
 ### This program realize two sort algorithms:
 1. *Quick(Hoar) Sort*:
-```
+```c#
 // Check if parametrs are correct   
 static bool QuickSort(int[] array, int start, int end)
 {
@@ -50,7 +50,7 @@ static int Division(int[] array, int start, int end)
 }
 ```
 2. *Merge Sort*:
-```
+```c#
 // Check if parametrs are correct
 static bool MergeSort(int[] array, int start, int end)
 {
