@@ -4,12 +4,7 @@
 // <author>Denis Stolyarov</author>
 namespace Library
 {
-    /// <summary>
-    /// Extensions for Book class
-    /// </summary>
-    public static class BookFormater
-    {
-        /// <summary>
+	/// <summary>
         /// Presentation type
         /// </summary>
         public enum BookStyle
@@ -35,6 +30,11 @@ namespace Library
             Full
         }
 
+    /// <summary>
+    /// Extensions for Book class
+    /// </summary>
+    public static class BookFormater
+    {
         /// <summary>
         /// Gets presentation of book information 
         /// </summary>
