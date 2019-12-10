@@ -1,9 +1,11 @@
 ﻿# Exercise
-### This program realize some [metods](https://github.com/DenisStolyarov/EPAM.NET/blob/811b3ca1cf9270fa09bd6be4230a2e227190f3a0/NET.W.2019.Stolyarov.06/Exercise.cs#L1) and [test](https://github.com/DenisStolyarov/EPAM.NET/blob/811b3ca1cf9270fa09bd6be4230a2e227190f3a0/NET.W.2019.Stolyarov.06/ExerciseTest.cs#L1) them:
-1. [Polynomial class](https://github.com/DenisStolyarov/EPAM.NET/blob/2b98b2c5422822768a964c1de0259739587f0f66/NET.W.2019.Stolyarov.06/Exercise.cs#L12) for work with degree polynomials of one variable of real type. This class realize basic operation such as [+](https://github.com/DenisStolyarov/EPAM.NET/blob/2b98b2c5422822768a964c1de0259739587f0f66/NET.W.2019.Stolyarov.06/Exercise.cs#L91), [-](https://github.com/DenisStolyarov/EPAM.NET/blob/2b98b2c5422822768a964c1de0259739587f0f66/NET.W.2019.Stolyarov.06/Exercise.cs#L132), [\*](https://github.com/DenisStolyarov/EPAM.NET/blob/2b98b2c5422822768a964c1de0259739587f0f66/NET.W.2019.Stolyarov.06/Exercise.cs#L173) and override virtual [methods](https://github.com/DenisStolyarov/EPAM.NET/blob/2b98b2c5422822768a964c1de0259739587f0f66/NET.W.2019.Stolyarov.06/Exercise.cs#L253) of the Object class.
-2. [Jagged Array](https://github.com/DenisStolyarov/EPAM.NET/blob/2b98b2c5422822768a964c1de0259739587f0f66/NET.W.2019.Stolyarov.06/Exercise.cs#L311) for work with jagged array:
-* [BubbleSortAscending](https://github.com/DenisStolyarov/EPAM.NET/blob/2b98b2c5422822768a964c1de0259739587f0f66/NET.W.2019.Stolyarov.06/Exercise.cs#L400) and [BubbleSortDescending](https://github.com/DenisStolyarov/EPAM.NET/blob/2b98b2c5422822768a964c1de0259739587f0f66/NET.W.2019.Stolyarov.06/Exercise.cs#L424) - sort jagged array by line by ascend and by descend.
-* [Max](https://github.com/DenisStolyarov/EPAM.NET/blob/2b98b2c5422822768a964c1de0259739587f0f66/NET.W.2019.Stolyarov.06/Exercise.cs#L318) - get maximum element of sz-array(line).
-* [Min](https://github.com/DenisStolyarov/EPAM.NET/blob/2b98b2c5422822768a964c1de0259739587f0f66/NET.W.2019.Stolyarov.06/Exercise.cs#L342) - get minimal element of sz-array(line).
-* [Sum](https://github.com/DenisStolyarov/EPAM.NET/blob/2b98b2c5422822768a964c1de0259739587f0f66/NET.W.2019.Stolyarov.06/Exercise.cs#L366) - get sum of all elements of sz-array(line).
+### Adjustments made:
+1. [Library project](https://github.com/DenisStolyarov/EPAM.NET/blob/f5429d4f23dca34374d284bb5d1294553e1d7e28/NET.W.2019.Stolyarov.12/NLog/BookNLogExample.cs#L2) - add logging. [Result](https://github.com/DenisStolyarov/EPAM.NET/blob/f5429d4f23dca34374d284bb5d1294553e1d7e28/NET.W.2019.Stolyarov.12/NLog/2019-12-10.log#L1).
+### Clock project:
+##### - A clock simulation class with a countdown that transmits information about the event to anyone who subscribes to the event.
+1. [TimerEventArgs](https://github.com/DenisStolyarov/EPAM.NET/blob/f5429d4f23dca34374d284bb5d1294553e1d7e28/NET.W.2019.Stolyarov.12/Timer/TimerEventArgs.cs#L1) - Arguments for timer event.
+2. [Timer](https://github.com/DenisStolyarov/EPAM.NET/blob/f5429d4f23dca34374d284bb5d1294553e1d7e28/NET.W.2019.Stolyarov.12/Timer/Timer.cs#L1) - Class for time delay.
+3. [ITime](https://github.com/DenisStolyarov/EPAM.NET/blob/f5429d4f23dca34374d284bb5d1294553e1d7e28/NET.W.2019.Stolyarov.12/Timer/ITime.cs#L1) - Time representation.
+4. [ChildClasses](https://github.com/DenisStolyarov/EPAM.NET/blob/f5429d4f23dca34374d284bb5d1294553e1d7e28/NET.W.2019.Stolyarov.12/Timer/ChildClasses.cs#L1) - realize ITime interface.
+5. [Control Example](https://github.com/DenisStolyarov/EPAM.NET/blob/f5429d4f23dca34374d284bb5d1294553e1d7e28/NET.W.2019.Stolyarov.12/Timer/Program.cs#L1)
 ---
