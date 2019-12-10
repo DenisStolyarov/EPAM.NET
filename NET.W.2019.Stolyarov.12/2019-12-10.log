@@ -1,0 +1,102 @@
+2019-12-10 12:34:18.9948 INFO Test work of BookService
+2019-12-10 12:34:19.2122 INFO Create book instance
+2019-12-10 12:34:19.2228 INFO Add book instance to service
+2019-12-10 12:34:19.2323 INFO Add book instance to service
+2019-12-10 12:34:19.2323 INFO Find book instances by Author
+2019-12-10 12:34:19.2716 INFO Find book instances by Publisher
+2019-12-10 12:34:19.2795 INFO Find book instances by Price
+2019-12-10 12:34:19.2795 INFO Sort book instances by Price
+2019-12-10 12:34:19.3057 INFO Sort book instances by Year
+2019-12-10 12:34:19.3167 INFO Save book instances in storage
+2019-12-10 12:34:19.3290 INFO Clear book instances
+2019-12-10 12:34:19.3392 INFO Load book instances in service
+2019-12-10 13:07:19.9659 INFO Test work of BookService
+2019-12-10 13:07:20.0298 INFO Create book instance
+2019-12-10 13:07:20.0298 INFO Add book instance to service
+2019-12-10 13:07:20.0501 INFO Add book instance to service
+2019-12-10 13:07:20.0598 INFO Find book instances by Author
+2019-12-10 13:07:20.0894 INFO Find book instances by Publisher
+2019-12-10 13:07:20.0894 INFO Find book instances by Price
+2019-12-10 13:07:20.1111 INFO Sort book instances by Price
+2019-12-10 13:07:20.1362 INFO Sort book instances by Year
+2019-12-10 13:07:20.1362 INFO Save book instances in storage
+2019-12-10 13:07:20.1620 INFO Clear book instances
+2019-12-10 13:07:20.1724 INFO Load book instances in service
+2019-12-10 13:10:45.8277 INFO Test work of BookService
+2019-12-10 13:10:45.9780 INFO Create book instance
+2019-12-10 13:10:45.9982 INFO Add book instance to service
+2019-12-10 13:10:46.0190 INFO Add book instance to service
+2019-12-10 13:10:46.0370 INFO Find book instances by Author
+2019-12-10 13:10:46.0596 INFO Find book instances by Publisher
+2019-12-10 13:10:46.0746 INFO Find book instances by Price
+2019-12-10 13:10:46.0746 INFO Sort book instances by Price
+2019-12-10 13:10:46.1038 INFO Sort book instances by Year
+2019-12-10 13:10:46.1676 INFO Save book instances in storage
+2019-12-10 13:10:46.2557 INFO Clear book instances
+2019-12-10 13:10:46.2758 INFO Load book instances in service
+2019-12-10 13:11:31.4949 INFO Test work of BookService
+2019-12-10 13:11:31.5415 INFO Create book instance
+2019-12-10 13:11:31.5415 INFO Add book instance to service
+2019-12-10 13:11:31.5628 INFO Add book instance to service
+2019-12-10 13:11:31.5724 INFO Find book instances by Author
+2019-12-10 13:11:31.5883 INFO Find book instances by Publisher
+2019-12-10 13:11:31.5883 INFO Find book instances by Price
+2019-12-10 13:11:31.6106 INFO Sort book instances by Price
+2019-12-10 13:11:31.6284 INFO Sort book instances by Year
+2019-12-10 13:11:31.6431 INFO Save book instances in storage
+2019-12-10 13:11:31.6565 INFO Clear book instances
+2019-12-10 13:11:31.6663 INFO Load book instances in service
+2019-12-10 13:11:46.4987 INFO Test work of BookService
+2019-12-10 13:11:46.5480 INFO Create book instance
+2019-12-10 13:11:46.5592 INFO Add book instance to service
+2019-12-10 13:11:46.5592 INFO Add book instance to service
+2019-12-10 13:11:46.5782 INFO Find book instances by Author
+2019-12-10 13:11:46.5923 INFO Find book instances by Publisher
+2019-12-10 13:11:46.5923 INFO Find book instances by Price
+2019-12-10 13:11:46.6148 INFO Sort book instances by Price
+2019-12-10 13:11:46.6325 INFO Sort book instances by Year
+2019-12-10 13:11:46.6447 INFO Save book instances in storage
+2019-12-10 13:11:46.6585 INFO Clear book instances
+2019-12-10 13:11:46.6701 INFO Load book instances in service
+2019-12-10 13:12:43.2170 INFO Test work of BookService
+2019-12-10 13:12:43.2170 INFO Test work of BookService
+2019-12-10 13:12:43.2776 INFO Create book instance
+2019-12-10 13:12:43.2776 INFO Create book instance
+2019-12-10 13:12:43.2986 INFO Add book instance to service
+2019-12-10 13:12:43.2986 INFO Add book instance to service
+2019-12-10 13:12:43.3612 INFO Add book instance to service
+2019-12-10 13:12:43.3612 INFO Add book instance to service
+2019-12-10 13:12:43.3808 INFO Find book instances by Author
+2019-12-10 13:12:43.3808 INFO Find book instances by Author
+2019-12-10 13:12:43.4064 INFO Find book instances by Publisher
+2019-12-10 13:12:43.4064 INFO Find book instances by Publisher
+2019-12-10 13:12:43.4291 INFO Find book instances by Price
+2019-12-10 13:12:43.4291 INFO Find book instances by Price
+2019-12-10 13:12:43.4509 INFO Sort book instances by Price
+2019-12-10 13:12:43.4509 INFO Sort book instances by Price
+2019-12-10 13:12:43.4767 TRACE Show method start
+2019-12-10 13:12:43.4895 TRACE Show method end
+2019-12-10 13:12:43.4990 INFO Sort book instances by Year
+2019-12-10 13:12:43.4990 INFO Sort book instances by Year
+2019-12-10 13:12:43.5195 TRACE Show method start
+2019-12-10 13:12:43.5321 TRACE Show method end
+2019-12-10 13:12:43.5432 INFO Save book instances in storage
+2019-12-10 13:12:43.5432 INFO Save book instances in storage
+2019-12-10 13:12:43.5672 INFO Clear book instances
+2019-12-10 13:12:43.5672 INFO Clear book instances
+2019-12-10 13:12:43.5875 INFO Load book instances in service
+2019-12-10 13:12:43.5875 INFO Load book instances in service
+2019-12-10 13:12:43.6112 TRACE Show method start
+2019-12-10 13:12:43.6402 TRACE Show method end
+2019-12-10 13:13:39.0474 INFO Test work of BookService
+2019-12-10 13:13:39.1087 INFO Create book instance
+2019-12-10 13:13:39.1225 INFO Add book instance to service
+2019-12-10 13:13:39.1351 INFO Add book instance to service
+2019-12-10 13:13:39.1351 INFO Find book instances by Author
+2019-12-10 13:13:39.1649 INFO Find book instances by Publisher
+2019-12-10 13:13:39.1818 INFO Find book instances by Price
+2019-12-10 13:13:39.1818 INFO Sort book instances by Price
+2019-12-10 13:13:39.2164 INFO Sort book instances by Year
+2019-12-10 13:13:39.2285 INFO Save book instances in storage
+2019-12-10 13:13:39.2546 INFO Clear book instances
+2019-12-10 13:13:39.2674 INFO Load book instances in service
