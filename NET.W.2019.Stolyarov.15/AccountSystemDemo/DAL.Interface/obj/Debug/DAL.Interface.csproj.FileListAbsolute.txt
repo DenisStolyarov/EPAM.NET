@@ -1,0 +1,15 @@
+C:\Users\MIB\Desktop\AccountSystemApplication\DAL.Interface\bin\Debug\DAL.Interface.dll
+C:\Users\MIB\Desktop\AccountSystemApplication\DAL.Interface\bin\Debug\DAL.Interface.pdb
+C:\Users\MIB\Desktop\AccountSystemApplication\DAL.Interface\obj\Debug\DAL.Interface.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\AccountSystemApplication\DAL.Interface\obj\Debug\DAL.Interface.dll
+C:\Users\MIB\Desktop\AccountSystemApplication\DAL.Interface\obj\Debug\DAL.Interface.pdb
+C:\Users\MIB\Desktop\AccountSystemApplication\DAL.Interface\obj\Debug\DAL.Interface.csprojResolveAssemblyReference.cache
+D:\Dowloads\AccountSystemDemo\DAL.Interface\bin\Debug\DAL.Interface.dll
+D:\Dowloads\AccountSystemDemo\DAL.Interface\bin\Debug\DAL.Interface.pdb
+D:\Dowloads\AccountSystemDemo\DAL.Interface\bin\Debug\BLL.Interface.dll
+D:\Dowloads\AccountSystemDemo\DAL.Interface\bin\Debug\BLL.Interface.pdb
+D:\Dowloads\AccountSystemDemo\DAL.Interface\obj\Debug\DAL.Interface.csprojAssemblyReference.cache
+D:\Dowloads\AccountSystemDemo\DAL.Interface\obj\Debug\DAL.Interface.csproj.CoreCompileInputs.cache
+D:\Dowloads\AccountSystemDemo\DAL.Interface\obj\Debug\DAL.Interface.csproj.CopyComplete
+D:\Dowloads\AccountSystemDemo\DAL.Interface\obj\Debug\DAL.Interface.dll
+D:\Dowloads\AccountSystemDemo\DAL.Interface\obj\Debug\DAL.Interface.pdb
