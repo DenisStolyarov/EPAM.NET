@@ -13,3 +13,12 @@ D:\Dowloads\AccountSystemDemo\DAL.Interface\obj\Debug\DAL.Interface.csproj.CoreC
 D:\Dowloads\AccountSystemDemo\DAL.Interface\obj\Debug\DAL.Interface.csproj.CopyComplete
 D:\Dowloads\AccountSystemDemo\DAL.Interface\obj\Debug\DAL.Interface.dll
 D:\Dowloads\AccountSystemDemo\DAL.Interface\obj\Debug\DAL.Interface.pdb
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\DAL.Interface\bin\Debug\DAL.Interface.dll
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\DAL.Interface\bin\Debug\DAL.Interface.pdb
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\DAL.Interface\bin\Debug\BLL.Interface.dll
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\DAL.Interface\bin\Debug\BLL.Interface.pdb
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\DAL.Interface\obj\Debug\DAL.Interface.csprojAssemblyReference.cache
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\DAL.Interface\obj\Debug\DAL.Interface.csproj.CoreCompileInputs.cache
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\DAL.Interface\obj\Debug\DAL.Interface.csproj.CopyComplete
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\DAL.Interface\obj\Debug\DAL.Interface.dll
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\DAL.Interface\obj\Debug\DAL.Interface.pdb

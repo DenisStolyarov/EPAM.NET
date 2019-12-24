@@ -21,3 +21,16 @@ D:\Dowloads\AccountSystemDemo\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
 D:\Dowloads\AccountSystemDemo\BLL\obj\Debug\BLL.csproj.CopyComplete
 D:\Dowloads\AccountSystemDemo\BLL\obj\Debug\BLL.dll
 D:\Dowloads\AccountSystemDemo\BLL\obj\Debug\BLL.pdb
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\BLL\bin\Debug\BLL.dll
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\BLL\bin\Debug\BLL.pdb
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\BLL\bin\Debug\BLL.Interface.dll
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\BLL\bin\Debug\DAL.Fake.dll
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\BLL\bin\Debug\DAL.Interface.dll
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\BLL\bin\Debug\BLL.Interface.pdb
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\BLL\bin\Debug\DAL.Fake.pdb
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\BLL\bin\Debug\DAL.Interface.pdb
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\BLL\obj\Debug\BLL.dll
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\BLL\obj\Debug\BLL.pdb

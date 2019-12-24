@@ -19,3 +19,14 @@ D:\Dowloads\AccountSystemDemo\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 D:\Dowloads\AccountSystemDemo\DAL\obj\Debug\DAL.csproj.CopyComplete
 D:\Dowloads\AccountSystemDemo\DAL\obj\Debug\DAL.dll
 D:\Dowloads\AccountSystemDemo\DAL\obj\Debug\DAL.pdb
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\DAL\bin\Debug\DAL.dll
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\DAL\bin\Debug\DAL.pdb
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\DAL\bin\Debug\DAL.Interface.dll
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\DAL\bin\Debug\System.ValueTuple.dll
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\DAL\bin\Debug\DAL.Interface.pdb
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\DAL\bin\Debug\System.ValueTuple.xml
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\DAL\obj\Debug\DAL.dll
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\DAL\obj\Debug\DAL.pdb
