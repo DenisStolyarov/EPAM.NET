@@ -9,3 +9,9 @@ D:\Dowloads\AccountSystemDemo\BLL.Interface\obj\Debug\BLL.Interface.csprojAssemb
 D:\Dowloads\AccountSystemDemo\BLL.Interface\obj\Debug\BLL.Interface.csproj.CoreCompileInputs.cache
 D:\Dowloads\AccountSystemDemo\BLL.Interface\obj\Debug\BLL.Interface.dll
 D:\Dowloads\AccountSystemDemo\BLL.Interface\obj\Debug\BLL.Interface.pdb
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\BLL.Interface\bin\Debug\BLL.Interface.dll
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\BLL.Interface\bin\Debug\BLL.Interface.pdb
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\BLL.Interface\obj\Debug\BLL.Interface.csprojAssemblyReference.cache
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\BLL.Interface\obj\Debug\BLL.Interface.csproj.CoreCompileInputs.cache
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\BLL.Interface\obj\Debug\BLL.Interface.dll
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\BLL.Interface\obj\Debug\BLL.Interface.pdb

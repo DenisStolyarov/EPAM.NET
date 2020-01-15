@@ -4,6 +4,12 @@ namespace BLL.Interface.Entities
 {
     public class BaseAccount : Account
     {
+        public BaseAccount()
+            : base()
+        {
+
+        }
+
         public BaseAccount(int accountNumber, string firstName, string lastName) 
             : base (accountNumber,firstName,lastName)
         {

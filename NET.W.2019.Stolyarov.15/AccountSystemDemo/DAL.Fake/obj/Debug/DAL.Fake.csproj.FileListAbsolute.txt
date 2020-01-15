@@ -32,3 +32,6 @@ D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.S
 D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\DAL.Fake\obj\Debug\DAL.Fake.csproj.CopyComplete
 D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\DAL.Fake\obj\Debug\DAL.Fake.dll
 D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\DAL.Fake\obj\Debug\DAL.Fake.pdb
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\DAL.Fake\bin\Debug\EntityFramework.dll
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\DAL.Fake\bin\Debug\DAL.dll.config
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\DAL.Fake\bin\Debug\EntityFramework.xml

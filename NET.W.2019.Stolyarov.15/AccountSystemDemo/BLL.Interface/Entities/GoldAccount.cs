@@ -4,6 +4,11 @@ namespace BLL.Interface.Entities
 {
     public class GoldAccount : Account
     {
+        public GoldAccount()
+        {
+
+        }
+
         public GoldAccount(int accountNumber, string firstName, string lastName)
             : base(accountNumber, firstName, lastName)
         {

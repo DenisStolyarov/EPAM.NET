@@ -3,6 +3,7 @@ namespace BLL.Interface.Entities
 {
     public abstract class Account
     {
+        public int Id { get; set; }
         public int AccountNumber { get; protected set; }
         public string FirstName { get; protected set; }
         public string LastName { get; protected set; }
@@ -28,6 +29,11 @@ namespace BLL.Interface.Entities
         public void Close()
         {
             this.Status = AccountStatus.Close;
+        }
+
+        public Account()
+        {
+
         }
 
         public Account(int accountNumber, string firstName, string lastName)

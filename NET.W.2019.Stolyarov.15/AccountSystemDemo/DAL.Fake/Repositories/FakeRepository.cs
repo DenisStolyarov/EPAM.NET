@@ -1,7 +1,7 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using BLL.Interface.Entities;
 using DAL.Interface.Interfaces;
-using System;
 
 namespace DAL.Fake.Repositories
 {

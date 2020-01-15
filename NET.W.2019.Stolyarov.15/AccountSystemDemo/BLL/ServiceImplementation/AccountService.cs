@@ -2,13 +2,18 @@
 using System.Collections.Generic;
 using BLL.Interface.Entities;
 using BLL.Interface.Interfaces;
-using DAL.Fake.Repositories;
+using DAL.Interface.Interfaces;
 
 namespace BLL.ServiceImplementation
 {
     public class AccountService : IAccountService
     {
-        private readonly FakeRepository repository = new FakeRepository();
+        private readonly IRepository<Account> repository;
+
+        public AccountService(IRepository<Account> repository)
+        {
+            this.repository = repository ?? throw new ArgumentNullException(nameof(repository));
+        }
 
         public void OpenAccount(string fullName, AccountType type, IAccountNumberCreateService creator)
         {
@@ -41,7 +46,7 @@ namespace BLL.ServiceImplementation
                     throw new ArgumentException(nameof(type));
             }
 
-            repository.Create(account);
+            this.repository.Create(account);
         }
 
         public IEnumerable<Account> GetAllAccounts()

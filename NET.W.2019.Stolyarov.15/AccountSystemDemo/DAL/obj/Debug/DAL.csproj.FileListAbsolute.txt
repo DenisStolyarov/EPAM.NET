@@ -30,3 +30,10 @@ D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.S
 D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\DAL\obj\Debug\DAL.csproj.CopyComplete
 D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\DAL\obj\Debug\DAL.dll
 D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\DAL\obj\Debug\DAL.pdb
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\DAL\bin\Debug\DAL.dll.config
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\DAL\bin\Debug\BLL.Interface.dll
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\DAL\bin\Debug\EntityFramework.dll
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\DAL\bin\Debug\BLL.Interface.pdb
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\DAL\bin\Debug\EntityFramework.xml
+D:\Education\Programming\Programming++\C#\Практика\EPAM.NET\NET.W.2019.Stolyarov.15\AccountSystemDemo\DAL\bin\Debug\EntityFramework.SqlServer.xml
